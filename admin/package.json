@@ -17,7 +17,7 @@
     "eject": "react-scripts eject"
   },
   "proxy": "http://localhost:5000",
-  "homepage": "http://localhost:5000/admin",
+  "proxy": "https://jsexpress.herokuapp.com/admin",
   "eslintConfig": {
     "extends": "react-app"
   },
