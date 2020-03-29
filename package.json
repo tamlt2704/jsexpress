@@ -1,0 +1,23 @@
+{
+  "name": "jsexpress",
+  "version": "1.0.0",
+  "description": "1. Init project npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamlt2704/jsexpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamlt2704/jsexpress/issues"
+  },
+  "homepage": "https://github.com/tamlt2704/jsexpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
