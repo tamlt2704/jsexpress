@@ -11,4 +11,5 @@ npx gitignore node
 npm install express --save
 
 
-
+3. start app
+npm start
