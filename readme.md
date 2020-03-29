@@ -13,3 +13,6 @@ npm install express --save
 
 3. start app
 npm start
+
+4. add nodemon
+npm install nodemon --save
